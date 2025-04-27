@@ -1,9 +1,7 @@
 # Хотела посмотреть фильм, но GIT оказался интереснее
 
-![углублю (надеюсь) знания здесь:]
-(https://ru.hexlet.io/courses/intro_to_git/lessons/intro/theory_unit)
-![Потренируюсь еще вот тут:]
-(https://learngitbranching.js.org/?locale=ru_RU&demo=)
+![Углублю знания здесь](https://ru.hexlet.io/courses/intro_to_git/lessons/intro/theory_unit)
+![Потренируюсь еще вот тут](https://learngitbranching.js.org/?locale=ru_RU&demo=)
 
 ## 📚 Раньше жила как неуч
 
@@ -13,7 +11,7 @@
 
 **Четко и по делу**
 
-    ```bash
+    ```
     git add .
 	git commit -m "Initial commit"
 	git push -u origin main
